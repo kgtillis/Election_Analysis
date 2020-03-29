@@ -28,5 +28,17 @@ The analysis of the election shows that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
 ## Challenge Overview
+Additional requested task to confirm the voter turnout for each county that voted in the congressional district.
   
 ## Challenge Summary 
+The analysis of the county vote shows that: 
+- The three counties in the congressional district were:
+  - Jefferson
+  - Denver 
+  - Arapahoe
+- The county results were: 
+  - Jefferson county had a 10.5% voter turnout with 38,855 votes.
+  - Denver county had a 82.8% voter turnout with 306,055 votes. 
+  - Arapahoe county had a 6.7% voter turnout with 24,801 votes. 
+- The largest county turnout was:
+  - Denver county, with 82.8% voter turnout with 306,055 votes.
